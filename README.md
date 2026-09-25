@@ -1,2 +1,2 @@
-# AI-WORK
-AI does the work but i am learning simultaneously. in coming years we will be working simultaneously.
+
+this is an AI SITE. its a art gallery. got the thought of creating this when i accidently saw perplexity posters on the net. what to say more after all the credit goes to the claude(btw free version)
